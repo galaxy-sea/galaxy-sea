@@ -21,15 +21,14 @@ Here are some ideas to get you started:
     </a>
     <p>
         <a href="https://github.com/pulls?q=author%3Agalaxy-sea">
-            <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide_rank=true&hide=contribs" alt="Anurag's GitHub stats" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide_rank=true&hide=contribs" alt="Anurag's GitHub stats" />
         </a>
         <br>
         <a href="http://csdn.wcj.plus">
-            <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="342"/>
+            <img align="left" src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="342"/>
         </a>
     </p>
 </p>
-
 
 
 
