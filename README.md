@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<div style="display:flex;">
-    <div style="display:inline-flex;flex-direction:column;" width = "325" >
-        <a href = "https://github.com/pulls?q=author%3Agalaxy-sea">
+<p>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
+        <img align="right" src="https://github-contributor-stats.vercel.app/api?username=galaxy-sea&hide=B&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false" alt="Taehyun's GitHub Repository Contribution stats" />
+    </a>
+    <p>
+        <a href="https://github.com/pulls?q=author%3Agalaxy-sea">
             <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide_rank=true&hide=contribs" alt="Anurag's GitHub stats" />
         </a>
-        <a href = "http://csdn.wcj.plus">
-            <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width = "342" style="margin-left: -6px;"/>
+        <br>
+        <a href="http://csdn.wcj.plus">
+            <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="342"/>
         </a>
-    </div>
-    <div style="display:inline">
-        <a href = "https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
-            <img src="https://github-contributor-stats.vercel.app/api?username=galaxy-sea&hide=B&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false" alt="Taehyun's GitHub Repository Contribution stats"  />
-        </a>
-    </div>
-</div>
+    </p>
+</p>
 
 
 
