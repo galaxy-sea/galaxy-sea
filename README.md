@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 
-</p>
+<p>
 
 **Tools, languages, and other things that I like to work with.**
 
