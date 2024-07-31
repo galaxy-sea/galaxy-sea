@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
-        <img align="left" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" alt="Taehyun's GitHub Repository Contribution stats" />
+        <img align="left" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&hide=B&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" alt="Taehyun's GitHub Repository Contribution stats" />
     </a>
     <p>
         <a href="http://csdn.wcj.plus">
