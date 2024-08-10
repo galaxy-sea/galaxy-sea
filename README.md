@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <img src="./images/dubbo.svg" alt="Apache Dubbo" height=60 width="60"/>
 </a>
 <a href = "https://github.com/mybatis">
-    <img src="./images/myBatis.svg" alt="myBatis" height=60 width="60"/>
+    <img src="./images/mybatis.svg" alt="myBatis" height=60 width="60"/>
 </a>
 <a href = "https://github.com/eclipse-vertx">
     <img src="./images/vertx.png" alt="vertx" height=60 width="60"/>
