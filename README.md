@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**galaxy-sea/galaxy-sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+96年大龄 JavaBoy&SpringBoy，大专学历 毕业于[浙江工业职业技术学院😝](https://www.zjipc.com/)。
 
 <p>
     <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
@@ -24,7 +11,7 @@ Here are some ideas to get you started:
             <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="323" />
         </a>
         <a href="https://github.com/pulls?q=author%3Agalaxy-sea">
-            <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide_rank=true&hide=contribs" alt="Anurag's GitHub stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide=contribs&hide_rank=true" alt="Anurag's GitHub stats" />
         </a>
     </p>
 </p>
