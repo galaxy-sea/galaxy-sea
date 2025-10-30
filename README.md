@@ -2,22 +2,19 @@
 
 96年大龄 JavaBoy&SpringBoy，大专学历 毕业于[浙江工业职业技术学院😝](https://www.zjipc.com/)。
 
-<p>
-    <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
-        <img align="left" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&hide=B&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" alt="Taehyun's GitHub Repository Contribution stats" />
-    </a>
-    <p>
-        <a href="http://csdn.wcj.plus">
-            <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="323" />
-        </a>
-        <a href="https://github.com/pulls?q=author%3Agalaxy-sea">
-            <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide=contribs&hide_rank=true" alt="Anurag's GitHub stats" />
-        </a>
-    </p>
-</p>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
+    <img align="left" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&hide=B&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0" alt="Taehyun's GitHub Repository Contribution stats" />
+</a>
 
+<a href="http://csdn.wcj.plus">
+    <img src="https://stats.justsong.cn/api/csdn?id=qq_34347620&theme=vue" alt="CSDN stats" width="323" />
+</a>
 
-</br>
+<a href="https://github.com/pulls?q=author%3Agalaxy-sea">
+    <img src="https://github-readme-stats.vercel.app/api?username=galaxy-sea&include_all_commits=true&show_icons=true&show=prs_merged,prs_merged_percentage&theme=vue&rank_icon=github&hide=contribs&hide_rank=true" alt="Anurag's GitHub stats" />
+</a>
+
+ <br clear="all">
 
 **Tools, languages, and other things that I like to work with.**
 
