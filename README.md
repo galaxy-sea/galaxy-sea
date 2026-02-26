@@ -1,11 +1,13 @@
-# Welcome 小魏奇妙世界
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&duration=3500&color=f0f6fc&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C">
+    <img  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&duration=3500&color=1f2328&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C" />
+</picture>
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue-dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/">
-    <img align="right" style="margin-left: 1px;"
-      src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/"
-      alt="GitHub Repository Contribution stats" />
+    <img align="right" style="margin-left: 1px;" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/" alt="GitHub Repository Contribution stats" />
   </picture>
 </a>
 
