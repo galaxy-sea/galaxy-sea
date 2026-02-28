@@ -1,7 +1,8 @@
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&duration=3500&color=f0f6fc&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C">
-    <img  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&duration=3500&color=1f2328&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=32&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C">
+    <img  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&pause=1000&color=1F2328&center=true&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C" />
 </picture>
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
