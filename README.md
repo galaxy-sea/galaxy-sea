@@ -1,5 +1,3 @@
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=32&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C">
     <img  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=32&pause=1000&color=1F2328&center=true&vCenter=true&repeat=false&width=341&height=46&lines=Welcome+%E5%B0%8F%E9%AD%8F%E5%A5%87%E5%A6%99%E4%B8%96%E7%95%8C" />
@@ -7,18 +5,17 @@
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue-dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/">
-    <img align="right" style="margin-left: 1px;" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/" alt="GitHub Repository Contribution stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue-dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|TDengine-Driver-Integration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/">
+    <img align="right" style="margin-left: 1px;" alt="GitHub Repository Contribution stats | Turn on your VPN" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|TDengine-Driver-Integration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/"  />
   </picture>
 </a>
 
 ### Author: ChangJin Wei (魏昌进)
 
-#### Hi There 
-
+##### Hi There 
 96年，[浙江工业职业技术学院](https://www.zjipc.com/)大专人。因高中时期沉迷反编译`Android OS/APP`踏上`Java`之路，现役`SpringBoy、CRUD仔、调包侠`。~~立志`手搓原子弹`~~。
 
-#### Tech Stack
+##### Tech Stack
 
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?labelColor=BFDCE5&logoColor=007396&style=flat-square&logo=openjdk" />
@@ -28,7 +25,7 @@
 <img alt="IoT" src="https://img.shields.io/badge/IoT-A22846?labelColor=E8C9D1&logoColor=A22846&style=flat-square&logo=raspberrypi" />
 </p>
 
-#### Links
+##### Links
 - [![](https://wsrv.nl/?w=16&h=16&url=https://github.com/favicon.ico) GitHub](https://github.com/galaxy-sea)
 - [![](https://wsrv.nl/?w=16&h=16&url=https://g.csdnimg.cn/static/logo/favicon32.ico) CSDN](https://blog.csdn.net/qq_34347620)
 - [![](https://wsrv.nl/?w=16&h=16&url=https://maven.apache.org/images/favicon.ico) Apache Maven](https://mvnrepository.com/search?q=crc%20wcj&d=plus.wcj)
@@ -39,7 +36,12 @@
   - [![](https://wsrv.nl/?w=16&h=16&url=https://www.mozilla.org/media/protocol/img/logos/firefox/browser/logo.svg) Add-ons for Firefox](https://addons.mozilla.org/firefox/user/18811487/)
 - [![](https://wsrv.nl/?w=16&h=16&url=https://avatars.githubusercontent.com/u/5188721) ~~百度云ROM主题~~](https://rom.baidu.com/)
 
-#### Contact
+##### Organizations
+- [![](https://wsrv.nl/?w=16&h=16&url=https://avatars.githubusercontent.com/u/73262599) Member,mybatis-mapper](https://github.com/mybatis-mapper)
+- [![](https://wsrv.nl/?w=16&h=16&url=https://web.ccf.org.cn/favicon.ico) Member,中国计算机学会 China Computer Federation](https://www.ccf.org.cn/)
+- [![](https://www.cie.org.cn/favicon.ico) Member,中国电子学会 Chinese Institute of Electronics](https://www.cie.org.cn/)
+
+##### Contact
 Email：[mail@wcj.plus](mailto:mail@wcj.plus)
 
-<br clear="all"/>
+</p clear="all">
