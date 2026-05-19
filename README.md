@@ -5,15 +5,15 @@
 
 <a href="https://github.com/pulls?q=is%3Apr+author%3Agalaxy-sea">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue-dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|TDengine-Driver-Integration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/">
-    <img align="right" style="margin-left: 1px;" alt="GitHub Repository Contribution stats | Turn on your VPN" src="https://repository-contribution-stats.vercel.app/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=^galaxy-sea/(?!AutoRedirector$|AlibabaCloudDevOpsIntegration$|TDengine-Driver-Integration$|Java2Flowchart$|screenshot$|12306-seat-viewer$|crc$|heifer$|spring-cloud-apisix$|libby-http-cache-control$)|^open-cat-now/|^CN-DevOps-Integrations/"  />
+    <source media="(prefers-color-scheme: dark)" srcset="https://repository-contribution-stats.wcj.plus/api?username=galaxy-sea&theme=vue-dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=base64:XmdhbGF4eS1zZWEvKD8hQXV0b1JlZGlyZWN0b3IkfEFsaWJhYmFDbG91ZERldk9wc0ludGVncmF0aW9uJHxURGVuZ2luZS1Ecml2ZXItSW50ZWdyYXRpb24kfEphdmEyRmxvd2NoYXJ0JHxzY3JlZW5zaG90JHwxMjMwNi1zZWF0LXZpZXdlciR8Y3JjJHxoZWlmZXIkfHNwcmluZy1jbG91ZC1hcGlzaXgkfGxpYmJ5LWh0dHAtY2FjaGUtY29udHJvbCQpfF5vcGVuLWNhdC1ub3cvfF5DTi1EZXZPcHMtSW50ZWdyYXRpb25zLw==" />
+    <img align="right" style="margin-left: 1px;" title="Click for more info." alt="GitHub Repository Contribution stats | Turn on your VPN" src="https://repository-contribution-stats.wcj.plus/api?username=galaxy-sea&theme=vue&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0&hide_repo_regex=base64:XmdhbGF4eS1zZWEvKD8hQXV0b1JlZGlyZWN0b3IkfEFsaWJhYmFDbG91ZERldk9wc0ludGVncmF0aW9uJHxURGVuZ2luZS1Ecml2ZXItSW50ZWdyYXRpb24kfEphdmEyRmxvd2NoYXJ0JHxzY3JlZW5zaG90JHwxMjMwNi1zZWF0LXZpZXdlciR8Y3JjJHxoZWlmZXIkfHNwcmluZy1jbG91ZC1hcGlzaXgkfGxpYmJ5LWh0dHAtY2FjaGUtY29udHJvbCQpfF5vcGVuLWNhdC1ub3cvfF5DTi1EZXZPcHMtSW50ZWdyYXRpb25zLw=="  />
   </picture>
 </a>
 
 ### Author: ChangJin Wei (魏昌进)
 
 ##### Hi There 
-96年，[浙江工业职业技术学院](https://www.zjipc.com/)大专人。因高中时期沉迷反编译`Android OS/APP`踏上`Java`之路，现役`SpringBoy、CRUD仔、调包侠`。~~立志`手搓原子弹`~~。
+96年，因高中时期沉迷反编译`Android OS/APP`踏上`Java`之路，现役`SpringBoy、CRUD仔、调包侠`。偶尔写业务，偶尔造轮子，偶尔修开源项目里让我睡不着的 Bug。
 
 ##### Tech Stack
 
@@ -39,9 +39,8 @@
 ##### Organizations
 - [![](https://wsrv.nl/?w=16&h=16&url=https://avatars.githubusercontent.com/u/73262599) Member,mybatis-mapper](https://github.com/mybatis-mapper)
 - [![](https://wsrv.nl/?w=16&h=16&url=https://web.ccf.org.cn/favicon.ico) Member,中国计算机学会 China Computer Federation](https://www.ccf.org.cn/)
-- [![](https://www.cie.org.cn/favicon.ico) Member,中国电子学会 Chinese Institute of Electronics](https://www.cie.org.cn/)
+<!-- - [![](https://www.cie.org.cn/favicon.ico) Member,中国电子学会 Chinese Institute of Electronics](https://www.cie.org.cn/) -->
+
 
 ##### Contact
 Email：[mail@wcj.plus](mailto:mail@wcj.plus)
-
-</p clear="all">
